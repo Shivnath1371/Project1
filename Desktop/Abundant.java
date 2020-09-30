@@ -8,7 +8,7 @@ if(n%i==0)
 sum=sum+i;
 }
 if(sum>x) 
-System.out.println("Abundant Number");
+System.out.println("Yes it is Abundant Number ");
 else
 System.out.println("Not a Abundant Number");
 }
